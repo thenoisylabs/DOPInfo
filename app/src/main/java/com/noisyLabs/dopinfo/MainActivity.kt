@@ -9,6 +9,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         val view = ActivityMainBinding.inflate(layoutInflater)
         setContentView(view.root)
-
     }
 }
